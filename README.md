@@ -41,7 +41,7 @@ This project is licensed under the MIT license.
   ## Tests
   To run the tests locally, you'll use Cypress. You'll want to follow the installation steps above then once that's done, in the root terminal, run:
 
-  `npm run test`
+  `npm run test` then `npm run test:component`
 
   or to open them in cypress use:
 
